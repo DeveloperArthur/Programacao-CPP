@@ -1,0 +1,1 @@
+Escrevendo coisas no txt pelo c++!!
